@@ -34,7 +34,7 @@ This is a Spring Boot application designed to periodically fetch data from the C
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MMacukic/JOBStest.git
+   git clone https://github.com/Mmacukic/JOBS-task.git
    cd court-register-backend
 ./mvnw spring-boot:run
 
